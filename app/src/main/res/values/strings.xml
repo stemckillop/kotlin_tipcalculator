@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string name="cost_string">How much did your meal cost today?</string>
+    <string name="tip_amount">How much tip would you like to give?</string>
+    <string name="total">Your meal will cost...</string>
+</resources>
